@@ -1,0 +1,7 @@
+Before you run anything make sure "Logistic Regression.py", "pre_process.py", and both test and train folders are in the same directory.
+
+run "pre_process.py" first, this allows us to store our processed data into a npy file. There should be 4 files after running the file.
+runtime may very depending on the machine it is run on.
+
+next, run "Logistic Regression" and it will tell you the accuracy of said data given to us.
+runtime may very depending on the machine.
